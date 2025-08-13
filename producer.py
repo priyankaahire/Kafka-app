@@ -57,4 +57,3 @@ def run_producer():
 # Run the producer script
 if __name__ == "__main__":
     run_producer()
-    
